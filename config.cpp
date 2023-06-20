@@ -6,6 +6,11 @@ class cfgFactionClasses {
 	#include "cfg_factions.hpp"
 };
 
+class cfgWeapons
+{
+	// Custom helmets ---------------------------------------
+	#include "cfg_helmets.hpp"
+};
 
 // Custom Editor category for units ------------------------------------------------
 class CfgEditorSubcategories

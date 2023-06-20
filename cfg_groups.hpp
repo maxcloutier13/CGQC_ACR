@@ -12,7 +12,7 @@ class cfgGroups
                 name = "Infantry";
                 class acr_b_boog_squad
                 {
-                    name = "Boogaloo - Squad";
+                    name = "Boogaloo - 6x Squad";
                     faction = "ACR";
                     side = 0;
                     class Unit0
@@ -61,7 +61,7 @@ class cfgGroups
 
 				class acr_b_boog_patrol
                 {
-                    name = "Boogaloo - Patrol";
+                    name = "Boogaloo - 4x Patrol";
                     faction = "ACR";
                     side = 0;
                     class Unit0
@@ -96,7 +96,7 @@ class cfgGroups
 
 				class acr_b_boog_sentry
                 {
-                    name = "Boogaloo - Sentry";
+                    name = "Boogaloo - 2x Sentry";
                     faction = "ACR";
                     side = 0;
                     class Unit0
@@ -117,7 +117,7 @@ class cfgGroups
                 
 				class acr_b_boog_covert_squad
                 {
-                    name = "Covert Squad";
+                    name = "Covert 6x Squad";
                     faction = "ACR";
                     side = 0;
                     class Unit0
@@ -166,7 +166,7 @@ class cfgGroups
 
 				class acr_b_boog_covert_patrol
                 {
-                    name = "Covert Patrol";
+                    name = "Covert 4x Patrol";
                     faction = "ACR";
                     side = 0;
                     class Unit0
@@ -201,7 +201,7 @@ class cfgGroups
 
 				class acr_b_boog_covert_sentry
                 {
-                    name = "Covert Sentry";
+                    name = "Covert 2x Sentry";
                     faction = "ACR";
                     side = 0;
                     class Unit0

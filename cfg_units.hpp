@@ -32,7 +32,7 @@ class CGQC_units_acr_boog_covert : rhsusf_army_ocp_rifleman
     side = 0;
     displayName = "Boogaloo Covert";
 	identityTypes[] = {"LanguageENG_F","Head_Caucasian"};
-    uniformClass = "tshirt_7500";
+    uniformClass = "tshirt_pagreen";
     backpack = "";
     weapons[] = {"Tier1_SR16_CQB_Mod2_CTR_Black", "Throw", "Put"};
     magazines[] = {"rhs_mag_30Rnd_556x45_M855A1_Stanag", "rhs_mag_30Rnd_556x45_M855A1_Stanag", "rhs_mag_m67", "rhs_mag_m67", "rhs_mag_30Rnd_556x45_M855A1_Stanag", "rhs_mag_30Rnd_556x45_M855A1_Stanag", "rhs_mag_30Rnd_556x45_M855A1_Stanag", "rhs_mag_30Rnd_556x45_M855A1_Stanag", "rhs_mag_30Rnd_556x45_M855A1_Stanag"};
